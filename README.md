@@ -1,2 +1,2 @@
-# tfc-aws-cicd
-here i am used aws, terrform
+# Tfc-Aws-cicd
+TFC-AWS-CICD is a Terraform configuration for setting up Continuous Integration and Continuous Deployment (CI/CD) pipelines on AWS. It automates the deployment process by provisioning resources like EC2 instances, S3 buckets, and IAM roles using Terraform scripts. This setup enables developers to efficiently manage and deploy their applications on AWS while ensuring consistency, scalability, and reliability through CI/CD practices.
